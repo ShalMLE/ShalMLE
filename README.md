@@ -31,6 +31,6 @@ Python · Pandas · Numpy · Scikit-learn · Matplotlib · Seaborn · TensorFlow
 📫 **Let’s connect!**
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - GitHub: [github.com/ShalMLE](https://github.com/ShalMLE)
-- Email: yourname@email.com
+- Email: shalinimlenthusiast@gmail.com
 
 ✨ *Let’s turn data into insights together!*
